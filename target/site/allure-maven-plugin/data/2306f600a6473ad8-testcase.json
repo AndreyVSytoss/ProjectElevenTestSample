@@ -1,0 +1,47 @@
+{
+  "uid" : "2306f600a6473ad8",
+  "name" : "userSchemaValidation",
+  "title" : "User schema validation",
+  "time" : {
+    "start" : 1490348850090,
+    "stop" : 1490348852101,
+    "duration" : 2011
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "90ce9dffc42a2bd6",
+    "name" : "SampleTestCase",
+    "title" : "Sample test case"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "16472@AVERPETA-LT2.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "AVERPETA-LT2"
+  }, {
+    "name" : "suite-name",
+    "value" : "SampleTestCase"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

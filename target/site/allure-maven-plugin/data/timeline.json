@@ -1,0 +1,64 @@
+{
+  "hosts" : [ {
+    "title" : "AVERPETA-LT2",
+    "threads" : [ {
+      "title" : "16472@AVERPETA-LT2.main(1)",
+      "testCases" : [ {
+        "uid" : "8c1b3def3a054bd9",
+        "name" : "checkFollowers",
+        "title" : "Check followers",
+        "time" : {
+          "start" : 1490348841046,
+          "stop" : 1490348850004,
+          "duration" : 8958
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "2306f600a6473ad8",
+        "name" : "userSchemaValidation",
+        "title" : "User schema validation",
+        "time" : {
+          "start" : 1490348850090,
+          "stop" : 1490348852101,
+          "duration" : 2011
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "743c7c279f52aadf",
+        "name" : "checkResponseBody",
+        "title" : "Check response body",
+        "time" : {
+          "start" : 1490348852103,
+          "stop" : 1490348853100,
+          "duration" : 997
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "29d72b63e47497c4",
+        "name" : "getStatusCode",
+        "title" : "Get status code",
+        "time" : {
+          "start" : 1490348853101,
+          "stop" : 1490348853894,
+          "duration" : 793
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d493a8673cf2812b",
+        "name" : "checkId",
+        "title" : "Check id",
+        "time" : {
+          "start" : 1490348853895,
+          "stop" : 1490348854693,
+          "duration" : 798
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
